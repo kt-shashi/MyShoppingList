@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Shopping List</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="add_item">Add item</string>
+    <string name="enter_item">Enter item</string>
+    <string name="hint_item">Enter item</string>
+    <string name="hint_qty">Quantity</string>
+    <string name="hint_color">Color</string>
+    <string name="hint_size">Size</string>
+    <string name="save_button">Save</string>
+    <string name="sure_text">Are you sure?</string>
+    <string name="no_text">No</string>
+    <string name="yes_text">Yes</string>
+    <string name="edit_time">Edit Item</string>
+    <string name="update_text">Update</string>
+    <string name="hint_price">Price</string>
+    <string name="action_developer">Developer</string>
+</resources>

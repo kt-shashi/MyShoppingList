@@ -49,7 +49,7 @@ public class RecyclerViewAdapter extends RecyclerView.Adapter<RecyclerViewAdapte
         holder.itemName.setText("Item: " + item.getItemName());
         holder.itemColor.setText("Color: " + item.getItemColor());
         holder.quantity.setText("Quantity: " + item.getItemQuantity() + "");
-        holder.price.setText("Price: " + item.getItemPrice() + "");
+        holder.price.setText("Price: ₹" + item.getItemPrice() + "");
         holder.dateAdder.setText("Added on: " + item.getDateItemAdded());
 
     }
